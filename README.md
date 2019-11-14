@@ -9,12 +9,6 @@ A Simple Admin Pannel written in core PHP. It contains an implementation of gene
   - Pagination
   - Filters
 
-### Live Demo :
-http://freecs9.epizy.com/core-php-admin
-Credentials :  
-**username** : admin
-**password** : admin
-
 
 ### Libraries used : 
   - MysqliDb (https://github.com/ThingEngineer/PHP-MySQLi-Database-Class)
